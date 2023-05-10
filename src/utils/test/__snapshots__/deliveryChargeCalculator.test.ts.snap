@@ -1,0 +1,19 @@
+// Vitest Snapshot v1
+
+exports[`delivery charge calculator > snapshot 1`] = `
+{
+  "foo": "bar",
+}
+`;
+
+exports[`delivery charge calculator test > snapshot 1`] = `
+{
+  "foo": "bar",
+}
+`;
+
+exports[`suite name > snapshot 1`] = `
+{
+  "foo": "bar",
+}
+`;
