@@ -11,7 +11,7 @@ export const FeeFormConstants = {
 };
 export const FeeCalculatorConstants = {
     // all currency values are in cents
-    freeDeliveryCartValue: 10000,
+    freeDeliveryCartValue: 20000,
     minCartValue: 1000,
     minDistance: 1000,
     stepDistance: 500,
