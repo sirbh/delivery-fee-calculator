@@ -44,6 +44,8 @@ function FeeCalculatorForm() {
 
                 if (fee) {
                     setTotalFee(`${(fee / 100).toFixed(2)} €`);
+                } else if (fee === 0) {
+                    setTotalFee('0 €');
                 } else {
                     setTotalFee('cannot be processed');
                 }
